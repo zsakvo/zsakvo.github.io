@@ -63,11 +63,11 @@
   </url>
   
   <url>
-    <loc>https://blog.zsakvo.cc/search/</loc>
+    <loc>https://blog.zsakvo.cc/tags/</loc>
   </url>
   
   <url>
-    <loc>https://blog.zsakvo.cc/tags/</loc>
+    <loc>https://blog.zsakvo.cc/search/</loc>
   </url>
   
 </urlset>
